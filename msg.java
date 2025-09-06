@@ -23,6 +23,7 @@ public class msg {
         int randomIndex = random.nextInt(messages.length);
 
         // Print a random message from the array
+        System.out.println("Ready? Here you go.....");
         System.out.println(messages[randomIndex]);
     
 }
