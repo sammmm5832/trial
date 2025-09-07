@@ -13,7 +13,8 @@ public class msg {
             "Java is fun.",
             "Keep learning.",
             "Coding is cool!",
-            "Have a great day."
+            "Have a great day.",
+            "I'm learning git yay"
         };
 
         // Create a Random object
